@@ -4,11 +4,11 @@ This repository contains code for creating two 2d gridworld environments and imp
 
 The description of each file is given below:
 
-1. 'gridworld_large.py' contains the code for the large grid world environment (40 x 40). Running this file will enable the user to play the game in keyboard mode.
+1. 'gridworld_large.py' contains code for the large grid world environment (40 x 40). Running this file will enable the user to play the game in keyboard mode.
 
-2. 'gridworld_small.py' contains the code for the small grid world environment (20 x 20). Running this file will enable the user to play the game in keyboard mode.
+2. 'gridworld_small.py' contains code for the small grid world environment (20 x 20). Running this file will enable the user to play the game in keyboard mode.
 
 
-3. 'learner_large.py' contains the code for the RL agent as well as the Random Agent for the smaller (40x40) environment.
+3. 'learner_large.py' contains code for the RL agent to learn the larger (40x40) environment.
 
-4. 'learner_small.py' contains the code for the RL agent as well as the Random Agent for the smaller (20x20) environment.
+4. 'learner_small.py' contains code for the RL agent to learn the smaller (20x20) environment.
